@@ -1,5 +1,5 @@
 # Country size and HDI correlation
-This is a data analysis personal learning project where I explore the correlation between a country's size (land only) and its human development index (HDI).
+This is a data analysis learning project where I explore the correlation between a country's size (land only) and its human development index (HDI).
 
 <br/><br/>
 
