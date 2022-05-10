@@ -52,6 +52,7 @@ Based on this simple analysis it can't be argued that a country's land size has 
 
 ## How to run:
 You only need 'main.py', 'scraper.py', and 'requirements.txt'.
+
 If you don't want to install all the necessary modules system-wide create a virtual environment first and run:
 ```
 pip install -r requirements.txt
